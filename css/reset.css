@@ -10,11 +10,12 @@ html{
 }
 
 body{
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1;
     font-weight: 400;
     background-color: #111;
     overflow-x: hidden;
+    color: #fff;
 }
 
 strong {
@@ -27,4 +28,8 @@ a{
 
 ul{
     list-style: none;
+}
+
+h1{
+    font-weight: 400;
 }
